@@ -19,7 +19,10 @@ plaintext
 ├── 📁 data  
 │   └── ventas_ecommerce_2024.csv           → Original dataset  
 ├── 📁 sql_queries  
-│   └── limpieza_y_agregaciones.sql         → Documented SQL queries  
+│   └── limpieza_y_agregaciones.sql         → Documented SQL queries
+├── 📁 documents
+│   └── report.pdf                          → Report in English
+│   └── reporte.pdf                         → Report in Spanish
 
 📌 Key Metrics Analyzed
 Total Sales (TotalSales)
